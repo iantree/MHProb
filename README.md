@@ -7,7 +7,7 @@ or switch to the other unopened door. Having changed (or not) his selected door,
 (I believe that if his door had a goat behind it then he did not win the goat!).
 The "problem" arose, not because of the gameshow itself but from a letter from Steve Selvin to the American Statistician in 1975 and then further discussed 
 in Marilyn Vos Savant's "Ask Marilyn" column in Parade Magazine in 1990. The column discussed if the contestant would have a winning advantage if he stuck
-with his original door are switched to the other unopened door. Savant argued that the contestant should switch as that had a 2/3 probability of winning the
+with his original door or switched to the other unopened door. Savant argued that the contestant should switch as that had a 2/3 probability of winning the
 car rather than a 1/3 probability of winning if he stuck with his original selection. Here lies the problem, an overwhelming 87% of people were in favour of
 sticking with the original selection leaving only 13% trusting in Savant's analysis.
 See https://en.wikipedia.org/wiki/Monty_Hall_problem for a detailed discussion.
