@@ -41,7 +41,7 @@
 namespace xymorg {
 
 	//
-	//  StringPool Class Definition
+	//  ObjectPool Class Definition
 	//
 
 	class ObjectPool {

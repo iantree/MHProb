@@ -6,7 +6,7 @@
 //*   Version:    1.1.0	(Build: 02)																					*
 //*   Author:     Ian Tree/HMNL																						*
 //*																													*
-//*   Copyright 2017 - 2025 Hadleigh Marshall Netherlands b.v.														*
+//*   Copyright 2017 - 2025 Ian J. Tree.														*
 //*******************************************************************************************************************
 //*																													*
 //*	This header file contains the definition for the XMLMicroParser class. The XMLMicroParser class provides the	*
